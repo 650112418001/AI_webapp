@@ -8,7 +8,7 @@
     <title>About</title>
 </head>
 <body>
-
+    
     <nav>
         <div class="container">
             <div class="nav-con">
